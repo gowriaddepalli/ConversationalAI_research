@@ -8,6 +8,7 @@ My research in conversational AI
 - Coreference resolution
 - Chatbots and Dialogue systems
 - Search Engines
+- Attention Models
 
 - RL, DL, NLP, ML
 
