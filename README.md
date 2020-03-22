@@ -9,6 +9,7 @@ My research in conversational AI
 - Search Engines
 - Attention Models
 - Visual question answering systems
+- Image captioning 
 
 - RL, DL, NLP, ML
 
