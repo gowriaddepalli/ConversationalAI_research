@@ -13,3 +13,9 @@ My research in conversational AI
 
 - RL, DL, NLP, ML
 
+
+Sources:
+
+- Coursera
+- Papers
+
