@@ -16,6 +16,6 @@ My research in conversational AI
 
 Sources:
 
-- Coursera
+- Coursera: https://www.coursera.org/learn/language-processing/home/welcome
 - Papers
 
