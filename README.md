@@ -1,21 +1,15 @@
-# ConversationalAI_research
+## ConversationalAI_research
 
-My research in conversational AI
-
-- Transformer Architectectures
-- Sequence Models
-- Machine translations
-- Chatbots and Dialogue systems
-- Search Engines
-- Attention Models
-- Visual question answering systems
-- Image captioning 
-
-- RL, DL, NLP, ML
+My research in conversational AI (Chatbots and Dialogue systems)
 
 
-Sources:
+## Sources:
 
 - Coursera: https://www.coursera.org/learn/language-processing/home/welcome
 - Papers
+
+
+## Blogs:
+
+- https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
 
